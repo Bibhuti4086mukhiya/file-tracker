@@ -1,0 +1,8 @@
+task:
+pickle file
+somefile
+
+work on:
+add(file)
+set_version_location()
+timer for every 1 hour
